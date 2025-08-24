@@ -1,4 +1,4 @@
-# 💫 Hey!!!:
+# 💫 Hey!!!
 ## I am Harsh Raj<br><br> 🌱 I’m Artificial Intelligence and Data Science Student<br/><br> ⚡ My leetcode: https://leetcode.com/u/harsh_raj2/ <br/><br> 👨‍💼 My LinkedIn: https://www.linkedin.com/in/harsh-raj-ai/ <br/><br> 🤳 My Instagram: https://www.instagram.com/harsh_raj2/ <br/><br> <br>
 
 
